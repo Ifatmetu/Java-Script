@@ -1,0 +1,9 @@
+let num1=prompt("Enter First Number:");
+let num2=prompt("Enter Second Number:");
+num1=parseInt(num1,10);
+num2=parseInt(num2,10);
+console.log(num1 + "+" + num2 + "=" + (num1+num2) );
+console.log(num1 + "-" + num2 + "=" + (num1-num2));
+console.log(num1 + "*" + num2 + "=" + (num1*num2));
+console.log(num1 + "/" + num2 + "=" + (num1/num2));
+console.log(num1 + "%" + num2 + "=" + (num1%num2));
