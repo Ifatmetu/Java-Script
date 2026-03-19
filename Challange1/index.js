@@ -46,7 +46,7 @@ Total Income:$3750.25
 Total Expenses:$2500.75
 */
 
-console.log("Personal Budget Tracker:")
+console.log("Personal Budget Tracker:\n")
 console.log("User:" + UserName.toUpperCase());
 console.log("Total Income: $" + income);
 console.log("Total Expenses: $" + expenses);
