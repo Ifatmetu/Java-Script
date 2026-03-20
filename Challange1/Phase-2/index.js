@@ -1,5 +1,5 @@
 //Personal budget tracker Challange(Phase 2-Variables,Data Types)
-/*Challange Overview:Creat a basic personal budget tracker that allows users to enter their income amount and expenses amount ,and then displays using the console.Later,we will extend this project by adding operators,functions,arrays,objects,and DOM manipulation.
+/*Challange Overview:Creat a basic personal budget tracker that allows users to enter their income amount and expenses amount ,and then displays using the console. Later,we will extend this project by adding operators,functions,arrays,objects,and DOM manipulation.
 
 
 Challange Requirement:
