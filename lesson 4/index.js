@@ -21,3 +21,17 @@ withPerameter1(10);
 withPerameter2(5,2);
 var ans=returnResult(5,3);
 console.log(ans);
+
+
+//immediate function run->(full Function)(perameter list)
+(function display(message){
+    console.log(message)
+})("Ifat")
+
+
+//function expression->function in a variable
+var display2=function display(message){
+    console.log(message)
+}
+display2("Hiiii")
+
