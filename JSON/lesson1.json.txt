@@ -1,0 +1,10 @@
+{"friends"=[
+    {
+    "name"="Ifat",
+    "age"=22
+},
+{
+    "name"="Metu",
+    "age"=23
+}
+]}
