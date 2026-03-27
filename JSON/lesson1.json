@@ -1,10 +1,59 @@
-{"friends":[
-    {
-    "name":"Ifat",
-    "age":22
-},
 {
-    "name":"Metu",
-    "age":23
+  "friends": [
+    {
+      "name": "Ifat",
+      "age": 22
+    },
+    {
+      "name": "Metu",
+      "age": 23
+    }
+  ],
+  "student": [
+    {
+      "name": "Ifat Metu",
+      "middleName": "Jahan",
+      "age": 22,
+      "CGPA": 3.95,
+      "IsRegistered": true,
+      "language": [
+        "Bangla",
+        "English",
+        "Hindi"
+      ],
+      "Friends": [
+        {
+          "name": "Sraboni",
+          "Age": 22
+        },
+        {
+          "name": "Mim",
+          "Age": 23
+        }
+      ]
+    },
+    {
+      "name": "Ismot Tasin",
+      "middleName": "null",
+      "age": 14,
+      "CGPA": 1,
+      "IsRegistered": false,
+      "language": [
+        "Bangla",
+        "English",
+        "Hindi",
+        "Finnish"
+      ],
+      "Friends": [
+        {
+          "name": "Tahmina",
+          "Age": 15
+        },
+        {
+          "name": "mili",
+          "Age": 16
+        }
+      ]
+    }
+  ]
 }
-]}
